@@ -1,0 +1,10 @@
+# src/__main__.py
+"""
+Entry point to run the module as:
+python -m src
+"""
+from main import main
+
+if __name__ == "__main__":
+    main()
+
